@@ -1,0 +1,6 @@
+__pycache__
+.env
+atlas
+guide.md
+data/indexes
+data/enwiki-*.db
